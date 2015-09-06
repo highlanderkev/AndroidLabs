@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModalPopupExample</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="info_address">Address: </string>
+    <string name="info_type">Parking Type: </string>
+    <string name="info_distance">Distance: </string>
+    <string name="info_cost">Cost: </string>
+    <string name="info_report">Report!</string>
+    <string name="report_parked">Parked</string>
+    <string name="report_left">Left Spot</string>
+    <string name="report_bad">Bad Data</string>
+    <string name="report_help">Help Others</string>
+
+</resources>
